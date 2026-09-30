@@ -1,8 +1,8 @@
-\# Hi, I'm Dhanushree
+\ Hi, I'm Dhanushree
 
 
 
-\### B.Tech Artificial Intelligence \& Data Science | Java Backend Developer | AI Enthusiast
+\ B.Tech Artificial Intelligence \& Data Science | Java Backend Developer | AI Enthusiast
 
 
 
@@ -18,7 +18,7 @@ I enjoy working with Java, backend technologies, databases, APIs, and AI/LLM int
 
 
 
-\## What I'm Currently Working On
+\ What I'm Currently Working On
 
 
 
@@ -38,11 +38,11 @@ I enjoy working with Java, backend technologies, databases, APIs, and AI/LLM int
 
 
 
-\## Tech Stack
+\ Tech Stack
 
 
 
-\### Languages
+\ Languages
 
 
 
@@ -50,7 +50,7 @@ I enjoy working with Java, backend technologies, databases, APIs, and AI/LLM int
 
 
 
-\### Backend
+\ Backend
 
 
 
@@ -58,7 +58,7 @@ I enjoy working with Java, backend technologies, databases, APIs, and AI/LLM int
 
 
 
-\### Databases
+\ Databases
 
 
 
@@ -66,7 +66,7 @@ I enjoy working with Java, backend technologies, databases, APIs, and AI/LLM int
 
 
 
-\### AI / ML
+\ AI / ML
 
 
 
@@ -74,7 +74,7 @@ I enjoy working with Java, backend technologies, databases, APIs, and AI/LLM int
 
 
 
-\### Tools
+\ Tools
 
 
 
@@ -86,11 +86,11 @@ I enjoy working with Java, backend technologies, databases, APIs, and AI/LLM int
 
 
 
-\## Featured Projects
+\ Featured Projects
 
 
 
-\### Data Analysis Agent
+\ Data Analysis Agent
 
 
 
@@ -102,7 +102,7 @@ AI-powered data analysis application that allows users to upload CSV/Excel files
 
 
 
-\### SSL Certificate Expiry Watcher
+\ SSL Certificate Expiry Watcher
 
 
 
@@ -114,7 +114,7 @@ Backend service that scans SSL certificates, handles connection and DNS failures
 
 
 
-\### SentinelX
+\ SentinelX
 
 
 
@@ -130,7 +130,7 @@ An autonomous infrastructure resilience simulator that evaluates infrastructure 
 
 
 
-\## Career Focus
+\ Career Focus
 
 
 
@@ -146,7 +146,7 @@ I’m currently focused on becoming a strong Java Backend Developer with the abi
 
 
 
-\## Connect With Me
+\ Connect With Me
 
 
 
